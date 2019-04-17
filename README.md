@@ -1,15 +1,26 @@
-# agora_mobile
+# AGORA Mobile
 
-A new Flutter project.
+A Flutter Application/mobile client that describes the functionality of the AGORA Vote Web - API
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+- Sign-in / Sign-up
+<div align="center">
+    <img src="mocks/1.Login.png">
+</div>
+- Dashboard
+<div align="center">
+    <img src="mocks/2.DashBoard.png">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- Creating an Election 
+<div align="center">
+    <img src="mocks/3.Create Election Page1.png">
+    <img src="mocks/4.Create Election Page2.png">
+    <img src="mocks/5.Create Election Page3.png">
+    <img src="mocks/6.Create Election Page4.png">
+    <img src="mocks/7.Create Election Page5.png">
+</div>
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
